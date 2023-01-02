@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<TargetFramework>net6.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+		<NoWarn>CS8618</NoWarn>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\HH.ECommerce.Data\HH.ECommerce.Data.csproj" />
+		<ProjectReference Include="..\HH.Ecommerce.Entities\HH.Ecommerce.Entities.csproj" />
+	</ItemGroup>
+</Project>

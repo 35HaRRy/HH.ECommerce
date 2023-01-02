@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="HH.ECommerce.Entities.DTOs.CreateCustomerDto">
+    <Position X="0.5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAACAAAAAAAAAQQAAAAAAAAAACAAAAAAAAAAg=</HashCode>
+      <FileName>DTOs\CreateCustomerDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HH.ECommerce.Entities.DTOs.CreateDiscountDto">
+    <Position X="3.75" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAQAAAAAAAEA=</HashCode>
+      <FileName>DTOs\CreateDiscountDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HH.ECommerce.Entities.DTOs.CreateInvoiceDto">
+    <Position X="6.75" Y="0.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>EAAAgAAAAAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DTOs\CreateInvoiceDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HH.ECommerce.Entities.DTOs.CustomerDto">
+    <Position X="0.5" Y="3" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAIAAAAAAQAAgAAAAABACAAAAAAAAAAA=</HashCode>
+      <FileName>DTOs\CustomerDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HH.ECommerce.Entities.DTOs.DiscountDto">
+    <Position X="3.75" Y="3" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>QAACAAAAAAAAAAAAAAAAAAQAAAAAAAAAAQAAAAAAAEA=</HashCode>
+      <FileName>DTOs\DiscountDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HH.ECommerce.Entities.DTOs.InvoiceDto">
+    <Position X="6.75" Y="3" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAIAAAAAAAAAAAAgAAAAAAAAAAQAAAAAAEAAAAAAA=</HashCode>
+      <FileName>DTOs\InvoiceDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HH.ECommerce.Entities.Customer">
+    <Position X="0.5" Y="5.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AgAAAEAAACAAAIAAAAAQQAAAAAAAABACAAAEAAAAAAg=</HashCode>
+      <FileName>Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HH.ECommerce.Entities.Discount">
+    <Position X="3.75" Y="5.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>QAACAAAAAAAAAAAAAAAAAAQAAAAAAAAAAQAAAAAAAEA=</HashCode>
+      <FileName>Discount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HH.ECommerce.Entities.ErrorModel">
+    <Position X="3.75" Y="9.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAIAAAIAAAAAA=</HashCode>
+      <FileName>ErrorModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HH.ECommerce.Entities.Invoice">
+    <Position X="6.75" Y="5.5" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>EAEAoAAAAAAAAABAAgAAAAAAAAAAQBAAAAAEAAAAAAA=</HashCode>
+      <FileName>Invoice.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HH.ECommerce.Entities.InvoiceDetails">
+    <Position X="11" Y="5.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>EAACIAAAAAAAAAAAAAAAgAAAAgAAAAABAAAAAEAIQQA=</HashCode>
+      <FileName>InvoiceDetails.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

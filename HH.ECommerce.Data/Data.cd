@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" GroupingSetting="Alphabetical" MembersFormat="FullSignature">
+  <Class Name="HH.ECommerce.Data.Migrations.Initial">
+    <Position X="20.5" Y="3" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAI=</HashCode>
+      <FileName>Migrations\20221207212912_Initial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HH.ECommerce.Data.Migrations.ApplicationContextModelSnapshot">
+    <Position X="24.25" Y="3" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Migrations\ApplicationContextModelSnapshot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HH.ECommerce.Data.Repositories.CustomerRepository">
+    <Position X="0.5" Y="3" Width="4.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAIAAEAAAAAIA=</HashCode>
+      <FileName>Repositories\CustomerRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HH.ECommerce.Data.Repositories.DiscountRepository">
+    <Position X="5.5" Y="3" Width="5.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAACAAAAAAAAgAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>Repositories\DiscountRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HH.ECommerce.Data.Repositories.InvoiceRepository">
+    <Position X="11" Y="3" Width="5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Repositories\InvoiceRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HH.ECommerce.Data.Repositories.RepositoryBase&lt;T&gt;">
+    <Position X="5" Y="0.5" Width="6" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAFAAAAAAQAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Repositories\RepositoryBase.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HH.ECommerce.Data.Repositories.RepositoryManager" BaseTypeListCollapsed="true">
+    <Position X="17" Y="3" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAABIAAACAAAAAAAIAAAAAAAgAAAAAAAQA=</HashCode>
+      <FileName>Repositories\RepositoryManager.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.255" Collapsed="true" />
+  </Class>
+  <Class Name="HH.ECommerce.Data.Seed.SeedCustomerData" BaseTypeListCollapsed="true">
+    <Position X="21.25" Y="7.5" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Seed\SeedCustomerData.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="HH.ECommerce.Data.Seed.SeedDiscountData" BaseTypeListCollapsed="true">
+    <Position X="17" Y="6" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Seed\SeedDiscountData.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="HH.ECommerce.Data.Seed.SeedInvoiceData" BaseTypeListCollapsed="true">
+    <Position X="21" Y="6" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Seed\SeedInvoiceData.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="HH.ECommerce.Data.Seed.SeedInvoiceDetailsData" BaseTypeListCollapsed="true">
+    <Position X="17" Y="7.5" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Seed\SeedInvoiceDetailsData.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="HH.ECommerce.Data.ApplicationContext">
+    <Position X="17" Y="0.5" Width="4.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAABAAAAAAAAAEAAAAAAAAgAAACAAAAA=</HashCode>
+      <FileName>ApplicationContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HH.ECommerce.Data.MappingProfile">
+    <Position X="21.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MappingProfile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="HH.ECommerce.Data.Contracts.ICustomerRepository">
+    <Position X="0.5" Y="5.5" Width="4.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAIAAEAAAAAIA=</HashCode>
+      <FileName>Contracts\ICustomerRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="HH.ECommerce.Data.Contracts.IDiscountRepository">
+    <Position X="5.5" Y="5.5" Width="5.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAACAAAAAAAAgAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>Contracts\IDiscountRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="HH.ECommerce.Data.Contracts.IInvoiceRepository">
+    <Position X="11" Y="5.5" Width="5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Contracts\IInvoiceRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="HH.ECommerce.Data.Contracts.IRepositoryBase&lt;T&gt;">
+    <Position X="0.5" Y="7.5" Width="6" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAEAAAAAAQAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Contracts\IRepositoryBase.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="HH.ECommerce.Data.Contracts.IRepositoryManager">
+    <Position X="6.75" Y="7.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAgAAAAAAAQA=</HashCode>
+      <FileName>Contracts\IRepositoryManager.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

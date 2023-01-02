@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="HH.ECommerce.Services.CustomerService" BaseTypeListCollapsed="true">
+    <Position X="7.25" Y="2.5" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAwAABAAAAAAAAAAAAAAAAAAAAAAAAEAAABAAA=</HashCode>
+      <FileName>CustomerService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="1.585" Collapsed="true" />
+  </Class>
+  <Class Name="HH.ECommerce.Services.DiscountService" BaseTypeListCollapsed="true">
+    <Position X="11.25" Y="2.5" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAABAAAAACAAAAAAAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DiscountService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="1.45" Collapsed="true" />
+  </Class>
+  <Class Name="HH.ECommerce.Services.InvoiceService" BaseTypeListCollapsed="true">
+    <Position X="1" Y="2.5" Width="6" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAQAAABA=</HashCode>
+      <FileName>InvoiceService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="2.539" Collapsed="true" />
+  </Class>
+  <Interface Name="HH.ECommerce.Services.Contracts.ICustomerService">
+    <Position X="7.25" Y="0.5" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAABAAA=</HashCode>
+      <FileName>Contracts\ICustomerService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="HH.ECommerce.Services.Contracts.IDiscountService">
+    <Position X="11.25" Y="0.5" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAACAAAAAAAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Contracts\IDiscountService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="HH.ECommerce.Services.Contracts.IInvoiceService">
+    <Position X="1" Y="0.5" Width="5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAABA=</HashCode>
+      <FileName>Contracts\IInvoiceService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
